@@ -15,6 +15,9 @@ html code :
  ```
 also works~
 ___
+
+**Lists are fairly easy to create in Markdown~**
+
 ```markdown
 * item 1
 * item2
